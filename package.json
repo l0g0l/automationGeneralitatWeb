@@ -1,0 +1,22 @@
+{
+  "name": "automationgeneralitatweb",
+  "version": "1.0.0",
+  "description": "# EJERCICIO TÉCNICO Automatizar un proceso que realice una búsqueda en la web de la Generalitat de Catalunya",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l0g0l/automationGeneralitatWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l0g0l/automationGeneralitatWeb/issues"
+  },
+  "homepage": "https://github.com/l0g0l/automationGeneralitatWeb#readme",
+  "devDependencies": {
+    "playwright": "^1.11.0"
+  }
+}
